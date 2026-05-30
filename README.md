@@ -1,3 +1,5 @@
+<img width="400" height="225" alt="2026-05-30 06-39-26" src="https://github.com/user-attachments/assets/97e45579-5185-4441-bbc7-bb472d2f6a89" />
+
 # Boot Flow — Test Task (Вариант A)
 
 ## Как запустить
